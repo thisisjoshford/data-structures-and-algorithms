@@ -1,2 +1,2 @@
-# data-structures-and-algorithms
-[Array Map link](./arrayMap/README.md)
+# Data Structures and Algorythms 
+1) [Array Map](./arrayMap/README.md)

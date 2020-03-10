@@ -9,7 +9,6 @@ function addsFive(number){
 function multipliesTen(number){
     return number * 10;
 }
-
 function dividesInHalf(number){
     return number / 2;
 }
