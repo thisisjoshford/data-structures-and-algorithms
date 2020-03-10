@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/thisisjoshford/data-structures-and-algorithms#readme",
   "dependencies": {
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "lint": "^0.7.0"
   }
 }
